@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservices.udemy</groupId>
-	<artifactId>learn-jpa-hibernate</artifactId>
+	<artifactId>05-microservice-jpa-hibernate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>learn-jpa-hibernate</name>
+	<name>05-microservice-jpa-hibernate</name>
 	<description>Demo project for Spring Boot Data JPA</description>
 	<properties>
 		<java.version>1.8</java.version>
