@@ -20,6 +20,16 @@ public class Post {
 	@JsonIgnore
 	private User user;
 
+	public Post(String description, User user) {
+		this.description = description;
+		this.user = user;
+	}
+
+	public Post() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public Integer getId() {
 		return id;
 	}

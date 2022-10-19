@@ -1,7 +1,10 @@
+com\microservices\udemy\entity\Post.class
 com\microservices\udemy\exception\ExceptionHandlerClass.class
 com\microservices\udemy\exception\ErrorDetails.class
-com\microservices\udemy\controller\UserConreoller.class
+com\microservices\udemy\repository\UserJpaRepository.class
+com\microservices\udemy\controller\UserController.class
 com\microservices\udemy\dao\UserDAOService.class
+com\microservices\udemy\controller\JpaUserConreoller.class
 com\microservices\udemy\entity\User.class
 com\microservices\udemy\exception\UserNotFoundException.class
 com\microservices\udemy\LearnJpaHibernateApplication.class
